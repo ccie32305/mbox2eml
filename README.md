@@ -39,10 +39,11 @@ Perfect for:
 
 ## Example Filename
 
-00001234_09e243c1301f4cb9_Invoice_August_2024.eml
-- `00001234` → Sequential number  
+2025-07-44-email@from.de-Invoice_August_2024-2f1f4770abe5c068.eml
+- `2025-07-44` → Date
+- 'email@from.de' → Email sender
+  `Invoice_August_2024` → Decoded and cleaned subject line 
 - `09e243c1301f4cb9` → 8-byte hash from email content  
-- `Invoice_August_2024` → Decoded and cleaned subject line  
 
 ---
 
